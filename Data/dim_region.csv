@@ -1,0 +1,21 @@
+region_id,state,city,region,region_review_flag,region_key
+R001,Maharashtra,Maharashtra City,West,OK,1
+R002,Gujarat,Gujarat City,West,OK,2
+R003,Rajasthan,Rajasthan City,West,OK,3
+R004,Goa,Goa City,West,OK,4
+R005,Madhya Pradesh,Madhya Pradesh City,Central,OK,5
+R006,Delhi,Delhi City,North,OK,6
+R007,Punjab,Punjab City,North,OK,7
+R008,Haryana,Haryana City,North,OK,8
+R009,Uttar Pradesh,Uttar Pradesh City,North,OK,9
+R010,Uttarakhand,Uttarakhand City,North,OK,10
+R011,Karnataka,Karnataka City,South,OK,11
+R012,Tamil Nadu,Tamil Nadu City,South,OK,12
+R013,Kerala,Kerala City,South,OK,13
+R014,Telangana,Telangana City,South,OK,14
+R015,Andhra Pradesh,Andhra Pradesh City,South,OK,15
+R016,West Bengal,West Bengal City,East,OK,16
+R017,Odisha,Odisha City,East,OK,17
+R018,Bihar,Bihar City,East,OK,18
+R019,Jharkhand,Jharkhand City,East,OK,19
+R020,Assam,Assam City,East,OK,20
