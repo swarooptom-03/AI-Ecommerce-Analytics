@@ -1,5 +1,7 @@
 # 🛒 E-Commerce Business Intelligence
 
+[🚀 View Live Interactive Dashboard](https://swarooptom-03.github.io/AI-Ecommerce-Analytics/)
+
 An end-to-end e-commerce analytics project built using Python, Pandas, and Plotly to analyze sales performance, profitability, product categories, and regional trends.
 
 ## 📌 Project Overview
